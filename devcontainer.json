@@ -1,0 +1,13 @@
+{
+  "name": "Airflow Bare Minimum",
+  "dockerComposeFile": "docker-compose.yml",
+  "service": "airflow-webserver",
+  "workspaceFolder": "/opt/airflow",
+  "settings": {
+    "python.defaultInterpreterPath": "/usr/local/bin/python"
+  },
+  "extensions": [
+    "ms-python.python",
+    "ms-azuretools.vscode-docker"
+  ]
+}

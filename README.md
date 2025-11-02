@@ -33,3 +33,5 @@
 ├─ logs/ plugins/   # created at runtime
 └─ README.md
 ```
+<img width="1695" height="934" alt="image" src="https://github.com/user-attachments/assets/404ebe04-bfc7-46bc-9e73-381fbeba6f19" />
+<img width="1695" height="933" alt="image" src="https://github.com/user-attachments/assets/5400a6af-b321-440d-8ac6-7df5e857ca9d" />
